@@ -17,4 +17,4 @@
 - modelo_transformer.py - funções usadas para validar o modelo baseado em arquitetura transformers
 
 ## Notebook:
-- PII detection & masking.ipyn - É o arquivo com o notebook usado para organizar o préprocessamento, treinamento do modelo transformers e validação das regras usadas pelo modelo baseado em regras
+- PII detection & masking.ipynb - É o arquivo com o notebook usado para organizar o préprocessamento, treinamento do modelo transformers e validação das regras usadas pelo modelo baseado em regras
