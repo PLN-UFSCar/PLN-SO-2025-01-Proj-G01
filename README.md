@@ -28,10 +28,10 @@ git clone https://github.com/PLN-UFSCar/PLN-SO-2025-01-Proj-G01.git
 ```
 pip install transformers datasets evaluate seqeval torch scikit-learn pandas faker spacy sacrebleu
 ```
+
 ## (Observação) 
 Para a execução da etapa de tradução será necessário a biblioteca easynmt, que depende de um pacote do fasttext e deve ser construído manualmente por conflitos de instalação.
 [Instruções para montagem do pacote](https://github.com/UKPLab/EasyNMT/issues/89#issuecomment-2021129757)
-
 
 ### Abra o Jupyter Notebook
 Com as dependências instaladas, inicie o servidor do Jupyter.
